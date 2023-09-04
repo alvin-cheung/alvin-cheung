@@ -1,6 +1,14 @@
 ### Hello world! 👋
 
+I'm Alvin, a software developer specializing in Javascript, React, and Node.
 
+️️☸️  Follow my team at [kubeready](https://github.com/oslabs-beta/kubeready), an open source Kubernetes metrics visualizer. <br>
+🎙️  I also have a sponsored tech talk on [Microservices](https://drive.google.com/file/d/1QCgMZrwyPbw8BBiv3ltPlh6e6jsMVrH1/view)!
+
+<br>
+
+
+![type type type](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)
 
 <!--
 **alvin-cheung/alvin-cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
